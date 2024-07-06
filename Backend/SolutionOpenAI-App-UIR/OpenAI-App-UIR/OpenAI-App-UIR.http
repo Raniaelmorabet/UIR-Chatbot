@@ -1,0 +1,6 @@
+@OpenAI_App_UIR_HostAddress = http://localhost:5169
+
+GET {{OpenAI_App_UIR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
