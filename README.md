@@ -33,9 +33,6 @@ Welcome to the **UIR Chatbot**, an intelligent chatbot built to enhance the digi
 ## Getting Started
 
 ### Prerequisites
-
-Before running the application, ensure you have the following installed:
-
 - **Node.js** (v16+ recommended)
 - **npm** (comes with Node.js)
 - **.NET SDK** (for backend development)
